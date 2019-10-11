@@ -12,6 +12,7 @@ namespace Compilador
         public int id_token;
         public int id_tipo;
         public int numLinea;
+        public String comentarios;
 
 
         public ClaseValores
